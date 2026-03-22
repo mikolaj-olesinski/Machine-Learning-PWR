@@ -1,0 +1,37 @@
+Uczenie maszynowe 
+Wykład Laby 
+- importy osobno i ładowanie danych osobno w komórce
+
+ lista01 (10pkt) 
+- wyniki będą fatalne:) 
+- zbiör jest chujowy 
+	- b. dużo brakujących wartości
+	 - jakiś wskaźnik wynika z innych wskaźników 
+	- przestrzega przed usuń wszystko, gdzie 0 
+	- dużo danych odstających 
+		- jaki problem
+	 	- co z tym zrobić 
+		- jak zidentyfikować 
+	- problem ze zmienną zależną (bankructwo 0/1) 
+		- niezbalansowane? 
+		- bankructwo 4% 
+		- problem: klasyfikator zawsze zwraca 0 i ma 95% skuteczności 
+		- potrzebujemy dokładność
+
+ - raporty finansowe
+ - każde z 5 lat traktować z osobna/
+	 - zobaczyć wszystkie 
+	- wziąć jeden do dalszych analiz 
+
+- klasyfikacja 
+	- weryfikacja czy dobrze podjęliśmy decyzje (czy lepiej znormalizować, zostawić outlierów, czy co)
+	 - musimy skonstruować metrykę - macierz pomyłek (ang wiki) - precyzja, czułość (żeby ewoluować z głową) 
+     - przeciwnik f1 (glownie uzywa sie tego np. do sortowania)
+- wizualizacja 
+	- pca (tismi?) 
+	- wizualizacja stochastyczna 
+	- ograniczenia 
+	- jakie?? 
+	- wplatanie w potoki nielegalne 
+	- pytanie dlaczego?? 
+	- można użyć przed i po transformacjach (np. przed i po usunięciem outlierów)
