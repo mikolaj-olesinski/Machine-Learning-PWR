@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 draft/
+
+
+.claude/
+data/
+wnioski.md

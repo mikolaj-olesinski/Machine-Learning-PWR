@@ -1,0 +1,10 @@
+czemu drzewa git:
+- sa explainable
+- nie trzeba skalowania, imputcacji
+- mozan w 100% dopasowac
+
+
+- przeczytac sklearn user guide
+- wazne strojenie hiperparametrow
+- dobrze znac co robia hiperparametry
+- nie uzywac randomseeda
