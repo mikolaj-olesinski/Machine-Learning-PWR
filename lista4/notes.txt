@@ -1,0 +1,3 @@
+z dbscanem najpierw zeby dospasowac parametry napoczatku dobrac min smaples kolo 2d a potem sprawedzic eps
+
+wazne zeby zobaczyc ile sie klastrow tworzyc ladnie to zrobic cale
